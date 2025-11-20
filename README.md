@@ -143,7 +143,7 @@ People involved with sample collection, processing, analysis and/or submission:
 - Green Group, Department of Chemical Engineering, MIT
 - Institute of Chemistry, University of Tartu
 - IUPAC volunteers
-- Toshihiko Izutsu (original compiler of the reference data)
+- Kosuke Izutsu (original compiler of the reference data)
 
 [//]: # (This addition is derived from https://github.com/deepmind/mathematics_dataset/blob/master/README.md)
 [//]: # (https://chrisgorgo.medium.com/making-github-hosted-datasets-discoverable-by-google-dataset-search-13527f2f657a)
