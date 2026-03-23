@@ -166,14 +166,131 @@ People involved with sample collection, processing, analysis and/or submission:
 The following table is necessary for this dataset to be indexed by 
 [Google Dataset Search](https://datasetsearch.research.google.com).
 
-
-| property    | value                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| name        | `Izutsu Digitized pKa Dataset`                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| creator     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| url         | `https://github.com/IUPAC/Dissociation-Constants-Izutsu`                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| description | `This repository includes pKa data measured in select dipolar aprotic solvents digitized and curated from reference data published by IUPAC. The data was originally compiled by Kosuke Izutsu in the IUPAC reference work on acid-base dissociation constants in dipolar aprotic solvents. With permission from the copyright holder, the International Union of Pure and Applied Chemistry (IUPAC), the reference data was digitized, checked for accuracy, and curated for accessibility, interoperability, and reusability between 14 April 2022 to 1 October 2025 by Jonathan W. Zheng. Additional corrections are included based on calculations from Ivo Leito and Sofja Tshepelevitsh.` |
-| provider    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| license     | `https://creativecommons.org/licenses/by-nc/4.0/`                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-
-
+<a href="https://datasetsearch.research.google.com">Google Dataset Search</a>.
+<div itemscope itemtype="http://schema.org/Dataset">
+<table>
+  <tr>
+    <th>property</th>
+    <th>value</th>
+  </tr>
+  <tr>
+    <td>name</td>
+    <td><code itemprop="name">Izutsu Digitized pKa Dataset</code></td>
+  </tr>
+  <tr>
+    <td>creator</td>
+    <td>
+      <div itemscope itemtype="http://schema.org/Person" itemprop="creator">
+        <table>
+          <tr>
+            <th>property</th>
+            <th>value</th>
+          </tr>
+          <tr>
+            <td>name</td>
+            <td><code itemprop="name">Jonathan W. Zheng</code></td>
+          </tr>
+        </table>
+      </div>
+      <div itemscope itemtype="http://schema.org/Person" itemprop="creator">
+        <table>
+          <tr>
+            <th>property</th>
+            <th>value</th>
+          </tr>
+          <tr>
+            <td>name</td>
+            <td><code itemprop="name">Ivo Leito</code></td>
+          </tr>
+        </table>
+      </div>
+      <div itemscope itemtype="http://schema.org/Person" itemprop="creator">
+        <table>
+          <tr>
+            <th>property</th>
+            <th>value</th>
+          </tr>
+          <tr>
+            <td>name</td>
+            <td><code itemprop="name">Sofja Tshepelevitsh</code></td>
+          </tr>
+        </table>
+      </div>
+            <div itemscope itemtype="http://schema.org/Person" itemprop="creator">
+        <table>
+          <tr>
+            <th>property</th>
+            <th>value</th>
+          </tr>
+          <tr>
+            <td>name</td>
+            <td><code itemprop="name">William H. Green</code></td>
+          </tr>
+        </table>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>url</td>
+    <td><code itemprop="url">https://github.com/IUPAC/Dissociation-Constants-Izutsu</code></td>
+  </tr>
+  <tr>
+    <td>description</td>
+    <td><code itemprop="description">This repository includes pKa data measured in select dipolar aprotic solvents digitized and curated from reference data published by IUPAC. The data was originally compiled by Kosuke Izutsu in the IUPAC reference work on acid-base dissociation constants in dipolar aprotic solvents. With permission from the copyright holder, the International Union of Pure and Applied Chemistry (IUPAC), the reference data was digitized, checked for accuracy, and curated for accessibility, interoperability, and reusability between 14 April 2022 to 1 October 2025 by Jonathan W. Zheng. Additional corrections are included based on calculations from Ivo Leito and Sofja Tshepelevitsh.
+</code></td>
+  </tr>
+  <tr>
+    <td>provider</td>
+    <td>
+      <div itemscope itemtype="http://schema.org/Organization" itemprop="provider">
+        <table>
+          <tr>
+            <th>property</th>
+            <th>value</th>
+          </tr>
+          <tr>
+            <td>name</td>
+            <td><code itemprop="name">The International Union of Pure and Applied Chemistry (IUPAC)</code></td>
+          </tr>
+          <tr>
+            <td>sameAs</td>
+            <td><code itemprop="sameAs">https://iupac.org</code></td>
+          </tr>
+        </table>
+      </div>
+      <div itemscope itemtype="http://schema.org/Organization" itemprop="provider">
+        <table>
+          <tr>
+            <th>property</th>
+            <th>value</th>
+          </tr>
+          <tr>
+            <td>name</td>
+            <td><code itemprop="name">Green Group, Department of Chemical Engineering, Massachusetts Institute of Technology (MIT)</code></td>
+          </tr>
+          <tr>
+            <td>sameAs</td>
+            <td><code itemprop="sameAs">https://greengroup.mit.edu/</code></td>
+          </tr>
+        </table>
+      </div>
+      <div itemscope itemtype="http://schema.org/Organization" itemprop="provider">
+        <table>
+          <tr>
+            <th>property</th>
+            <th>value</th>
+          </tr>
+          <tr>
+            <td>name</td>
+            <td><code itemprop="name">Institute of Chemistry, University of Tartu</code></td>
+          </tr>
+        </table>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>license</td>
+    <td><code itemprop="license">https://creativecommons.org/licenses/by-nc/4.0/</code></td>
+  </tr>
+</table>
+</div>
