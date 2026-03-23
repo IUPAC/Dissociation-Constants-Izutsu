@@ -67,11 +67,11 @@ This GitHub repository serves as a working copy for the dataset.
 
 The dataset includes pKa values measured in the following dipolar aprotic solvents:
 
-- **NM** (Nitromethane)
-- **NMPy** (N-Methyl-2-pyrrolidone)
+- **nitromethane**
+- **NMP** (N-Methyl-2-pyrrolidone)
 - **DMA** (N,N-Dimethylacetamide)
 - **MiBK** (Methyl isobutyl ketone)
-- **Sulfolane** (Tetramethylene sulfone)
+- **sulfolane** (tetramethylene sulfone)
 - **HMPA** (Hexamethylphosphoramide)
 
 Please email [jonzheng@mit.edu](mailto:jonzheng@mit.edu) or post an issue on the GitHub page if any errors are discovered.
@@ -99,7 +99,7 @@ Before publication, several programmed checks were performed on the dataset.
 - `Name`: Chemical name of the compound.
 - `SMILES`: SMILES string for the chemical species.
 - `InChI`: InChI string for the chemical species.
-- `Solvent`: The dipolar aprotic solvent in which the pKa was measured (NM, NMPy, DMA, MiBK, Sulfolane, or HMPA).
+- `Solvent`: The dipolar aprotic solvent in which the pKa was measured (nitromethane, NMP, DMA, MiBK, sulfolane, or HMPA).
 - `Proton Transfer Type`: Type of proton transfer reaction (proton gain, proton loss, indicator, or autoprotolysis const.).
 - `pKa Type`: Original pKa type designation from the source (e.g. pK1, pK2).
 - `pKa Type (Standardized)`: Standardized pKa type designation taking into account the degree of proton loss or gain with the proton transfer type (e.g., pKa1, pKa2, pKaH1, pKs).
@@ -128,11 +128,11 @@ There are 839 rows corresponding to 513 unique molecules in the dataset (unique 
 
 ### **Solvent Distribution**:
 
-- NM (Nitromethane): 449 entries
-- NMPy (N-Methyl-2-pyrrolidone): 204 entries
+- nitromethane: 449 entries
+- NMP (N-Methyl-2-pyrrolidone): 204 entries
 - DMA (N,N-Dimethylacetamide): 74 entries
 - MiBK (Methyl isobutyl ketone): 49 entries
-- Sulfolane (Tetramethylene sulfone): 32 entries
+- sulfolane (tetramethylene sulfone): 32 entries
 - HMPA (Hexamethylphosphoramide): 31 entries
 
 Specialized abbreviations used: 
@@ -149,8 +149,7 @@ Specialized abbreviations used:
 - `DMA`: N,N-Dimethylacetamide
 - `HMPA`: Hexamethylphosphoramide
 - `MiBK`: Methyl isobutyl ketone
-- `NM`: Nitromethane
-- `NMPy`: N-Methyl-2-pyrrolidone
+- `NMP`: N-Methyl-2-pyrrolidone
 
 ## Acknowledgement
 
