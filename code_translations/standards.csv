@@ -1,0 +1,14 @@
+Solvent,Letter,Note
+DMA,A,Group A: Complete dissociations of HClO4 and p+AC0-toluenesulfonic acid.
+HMPA,A,+ACI-Group A: Complete dissociation of HClO4, pKa(chloroacetic acid)+AD0-8.0. +ACI-
+NMPy,A,+ACI-Group A: pKa(HClO4)+AD0-4.5, pKa(HPic)+AD0-11.0. +ACI-
+NMPy,A,+ACI-Group A: pKa(4+AC0-chloro+AC0-2,6+AC0-dinitrophenol)+AD0-4.22, pKa(4,6+AC0-dinitro+AC0-2+AC0-methylphenol)+AD0-5.33, 
++AFs-pKa(benzoic acid)+AD0-13.3)+ACI-
+NMPy,B,+ACI-Group B: Complete dissociation of p+AC0-toluenesulfonic acid, pKa(benzoic acid)+AD0-12.3+ACI-
+NMPy,C,+ACI-Group C: Complete dissociation of HClO4, +AFs-pKa(benzoic acid)+AD0-10.0)+ACI-
+NM,A,+ACI-Group A: pKa(1,3+AC0-diphenylguanidine)+AD0-17.2. +ACI-
+NM,B,+ACI-Group B: pKa(1,3+AC0-diphenylguanidine)+AD0-14.5. +ACI-
+NM,B1,+ACI-Group B1: pKa(1,3+AC0-diphenylguanidine)+AD0-18.1+ACI-
+NM,C,Group C: pKa(HPic)+AD0-7.94 (see +ACo-1c). 
+NM,D,Group D: pKa(HPic)+AD0-7.67. 
+sulfolane,A,+ACI-Group A: pKa(HPic)+AD0-17.4, pKa(benzoic acid)+AD0-26.3. +ACI-
