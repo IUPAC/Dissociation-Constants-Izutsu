@@ -10,8 +10,7 @@ DMA,*6,"Trace water in DMA was removed by adding sodium bis(methoxy-2-ethoxy)alu
 DMA,*7,"Emfs of two cells, glass electrode/HCl(DMA)/AgCl,Ag and glass electrode/Bu4NDH(DMA)/AgCl,Ag, were measured by varying the concentrations of HCl and Bu4NOH. The results were used to determine the standard emf and pKs."
 DMA,*7a,"pKs' values in the presence of water were obtained by pKs' = (Es/59) - log c(HClO4)c(Me4NOH), where Es (in mV)is the difference between the half-neutralization potentials of HClO4 and Me4NOH at concentrations c(HClO4) and c(Me4NOH) at the instant of half-neutralization. pKs was obtained as pKs' extrapolated to zero water content. By a different method of extrapolation to zero water content,  pKs ~ 40 was obtained. See also *6. "
 HMPA,*0,"In the pKa values column, pKa values followed by capital letter A have been referred, directly or indirectly, to the following standards: A: Complete dissociation of HClO4, pKa(chloroacetic acid) =8.0. "
-HMPA,*00,"Note on the small letter in the Water Content column: 
-a Concentration of impurities: acids 2 x 10-4N and bases 2 x 10-4N. "
+HMPA,*00,Note on the small letter in the Water Content column:  a Concentration of impurities: acids 2 x 10-4N and bases 2 x 10-4N. 
 HMPA,*1,The Fuoss and Kraus equation was used. 
 HMPA,*2,"pKa was determined from paH in the solutions containing the acid, its conjugate base and 0.5M NaClO4. The hydrogen electrode was calibrated in dil. HClO4 (completely dissociated). "
 HMPA,*3,pKa was determined from the half-wave potential for the reduction of the acid at a platinum electrode in 0.5M NaClO4 saturated with hydrogen. pKa(chloroacetic acid)=8.0 was used as reference. 
@@ -26,14 +25,8 @@ MiBK,*4,The glass electrode was calibrated in a 1:2 mixture of HPic(pKa = 11.0) 
 MiBK,*5,"To 100 ml of the 10-5M indicator solution, 0.01M HClO4 was added in small doses. After each addition, the solution was measured potentiometrically as well as spectrophotometrically. "
 MiBK,*5a,Simultaneous potentiometric and spectrophotometric measurements were carried out during the titration of the indicator with Bu4NOH(in 9:1 benzene-MeOH). 
 MiBK,*6,pKa was estimated from the potential at half-neutralization of the base with 0.1M HClO4  of the acid with Bu4NOH (in 9:1 benzene-MeOH). Real pKa values may deviate to some extent from the values in the table because of the incomplete salt dissociation in MIBK. 
-NMP,*0,"In the pKa values column, pKa values followed by a same capital letter have been referred, directly or indirectly, to the same standard(s)*. 
-A: pKa(4-chloro-2,6-dinitrophenol)=4.22, pKa(4,6-dinitro-2-methylphenol) =5.33, 
-[pKa(benzoic acid)=13.3), 
-B: Complete dissociation of p-toluenesulfonic acid, pKa(benzoic acid)=12.3, 
-C: Complete dissociation of HClO4, [pKa(benzoic acid)=10.0). 
-* Fairly big discrepancies are observed between pKa values reported from different laboratories. This may be caused, in part, by complicating factors, such as homoconjugation and ion-association. The incomplete solvent purification may also cause the disagreements [80B]."
-NMP,*00,"Note on the small letters in the Water Content column: 
-a: Contents of water and other impurities were not reported, though the solvent was carefully purified. b: Concentrations of acidic and basic impurities were 2.1 x 10-3N and 1.6 x 10-3N, respectively. "
+NMP,*0,"In the pKa values column, pKa values followed by a same capital letter have been referred, directly or indirectly, to the same standard(s)*.  A: pKa(4-chloro-2,6-dinitrophenol)=4.22, pKa(4,6-dinitro-2-methylphenol) =5.33,  [pKa(benzoic acid)=13.3),  B: Complete dissociation of p-toluenesulfonic acid, pKa(benzoic acid)=12.3,  C: Complete dissociation of HClO4, [pKa(benzoic acid)=10.0).  * Fairly big discrepancies are observed between pKa values reported from different laboratories. This may be caused, in part, by complicating factors, such as homoconjugation and ion-association. The incomplete solvent purification may also cause the disagreements [80B]."
+NMP,*00,"Note on the small letters in the Water Content column:  a: Contents of water and other impurities were not reported, though the solvent was carefully purified. b: Concentrations of acidic and basic impurities were 2.1 x 10-3N and 1.6 x 10-3N, respectively. "
 NMP,*1,Complete dissociation of the acid (0.01 Mto 0.002M) was concluded from the Nernstian response of the glass electrode. 
 NMP,*2,"The glass electrode was calibrated in solutions of p-tolulenesulfonic acid (completely dissociated). pKa was obtained from paH in HA-Et4NA or in B-BHSO3CH3(1:1) mixture. The HA-Et4NA solution contained 4% benzene and 0.5% MeOH,which were brought in by the titrant Et4NOH(in 9:1 benzene-MeOH). "
 NMP,*3,"The indicator electrode was calibrated in solutions of strong acids (HClO4, HI,CH3SO3H)"
@@ -46,11 +39,7 @@ NMP,*9,Values reported in other literatures.
 NMP,*10,The Fuoss and Kraus equation was used.
 NMP,*11,"Emfs of two cells, glass electrode/HCl(NMP)/AgCl,Ag and glass electrode/Bu4NOH(NMP)/AgCl,Ag, were measured by varying the HCl and the Bu4NOH concentrations. The results were used to determine the standard emf and pKs."
 NMP,*12,"pKa values of the following sterically hindered phenols, bisphenols, and hydroxyphenyl ketones were determined by potentiometry with a glass electrode, using pKa(benzoic acid)=12.3) as reference[73K]."
-nitromethane,*0," In the pKa values column, pKa values followed by the same capital letter have been referred, directly or indirectly, to the same standard. 
-A: pKa(1,3-diphenylguanidine)=17.2. 
-B: pKa(1,3-diphenylguanidine)=14.5. 
-C: pKa(HPic)=7.94 (see *1c). 
-D: pKa(HPic)=7.67. "
+nitromethane,*0," In the pKa values column, pKa values followed by the same capital letter have been referred, directly or indirectly, to the same standard.  A: pKa(1,3-diphenylguanidine)=17.2.  B: pKa(1,3-diphenylguanidine)=14.5.  C: pKa(HPic)=7.94 (see *1c).  D: pKa(HPic)=7.67. "
 nitromethane,*1,"pKa was obtained from the potential at half-neutralization of the base with HClO4. 1,3-Diphenylguanidine(DPhG, pKa = 17.2) served as reference. The linear response of the glass electrode, confirmed in 4 x 10-4 - 4 x 10-5 M HClO4, ,gave pKa(DPhG)=17.2 within the accuracy of ± 0.5."
 nitromethane,*1a,"As in *1, but after making a statistical correction."
 nitromethane,*1b,"As in *1, but pKa(DPhG)=14.5,instead of 17.2 in *1, was used as reference. The difference between the pKa(DPhG)values was due to the correction made in *1b for the incomplete salt dissociation. When pKa values of group A are to be compared with those of group B, this difference must be taken into account. "
@@ -70,8 +59,7 @@ nitromethane,*12,The Kraus and Bray method was used.
 nitromethane,*13,"pKs was obtained by pKs>= (Es/59) - log c(HClO4)c(R4NOH), where Es(in mV) is the difference between the half-neutralization potentials of HClO4 and R4NOHat concentrations c(HClO4) and c(R4NOH) at the instant of half-neutralization."
 nitromethane,*14,"pKa and Kf(HA2-) were obtained from paH - log(Ca/Cs) relations for the acid and its tetraphenylarsonium salt by the method of Kalthoff and Chantooni [J. Am. Chem. Soc., 87, 4428 (1965)]. pKa was referred to pKa(HPic)=7.67."
 nitromethane,*15,Table: pKa for tertiary arsine oxides(B) (at 20 deg. C) (Ref. 79L); obtained by potentiometric titration with HClO4 using pKa(DPhG)=18.1 as reference).
-sulfolane,*0,"In the pKa values column, pKa values followed by capital letter A have been referred, directly or indirectly, to the following standards: 
-A: pKa(HPiC)=17.4, pKa(benzoic acid)=26.3. "
+sulfolane,*0,"In the pKa values column, pKa values followed by capital letter A have been referred, directly or indirectly, to the following standards:  A: pKa(HPiC)=17.4, pKa(benzoic acid)=26.3. "
 sulfolane,*00,Acidic impurity of 5 x 10-6N and basic impurity of less than 1 x 10-6 were contained. 
 sulfolane,*1,"The standard potential of the hydrogen electrode, determined in anhydrous HClO4  solutions, was +0.075 V vs. Ag/0.1M AgClO4(SL) and used as reference. pKa was obtained from the potentials of the hydrogen and/or the glass electrodes in0.01M HA-0.01M Et4Na, assuming the Nemstian response of the electrodes. Benoit and Pichet[73B] obtained -0.10 V vs. Ag/0.1M AgClO4 as the standard potential of the hydrogen electrode. If based on this value, the pKa value should become smaller by ca. 3 units. "
 sulfolane,*1a,The completely hydrated glass electrode was used after calibration in buffer solutions of picric acid (pKa = 17.4) and benzoic acid (pKa = 26.3). The temperature of the solution was not given.
