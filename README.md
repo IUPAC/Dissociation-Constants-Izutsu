@@ -60,6 +60,7 @@ This GitHub repository serves as a working copy for the dataset.
 **File List**
 
 - `izutsu_data_v1-0.csv` : pKa dataset in dipolar aprotic solvents.
+- `izutsu_data_v1-0.tsv` : As above, but in a tab-separated format
 - `code_translations /`  : directory containing optional supporting .csv files that translate from shorthand code to full text labels
   - `references.csv` : translation for bibliographical references 
   - `remarks.csv` : translation for supplementary notes on an entry
