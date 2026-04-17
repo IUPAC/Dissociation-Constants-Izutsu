@@ -1,5 +1,7 @@
 # Izutsu Digitized pKa Dataset
 
+[![DOI](https://zenodo.org/badge/1095887660.svg)](https://doi.org/10.5281/zenodo.19626584)
+
 ### Dataset version: v1.0
 
 ## Description
